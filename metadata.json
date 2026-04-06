@@ -1,0 +1,5 @@
+{
+  "name": "3D Circular Gallery",
+  "description": "A high-performance interactive 3D circular image gallery using Three.js and GSAP.",
+  "requestFramePermissions": []
+}
